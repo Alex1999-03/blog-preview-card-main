@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
-- [Live site](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-with-html-and-css-ctjv320j4-)
+- [Live site](https://alex1999-03.github.io/blog-preview-card-main)
 
 ## Built with
 
