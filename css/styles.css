@@ -78,7 +78,7 @@ body {
 .card__title {
   margin-top: 20px;
   font-size: 2rem;
-  font-weight: 800px;
+  font-weight: 800;
   transition: color 0.3s ease-in-out;
 }
 
