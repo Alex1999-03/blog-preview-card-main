@@ -109,3 +109,22 @@ body {
 .card__profile-name {
   font-weight: 800;
 }
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    transition: none;
+
+    &:hover {
+      box-shadow: 8px 8px var(--black);
+    }
+  }
+
+  .card__title {
+    transition: none;
+
+    &:hover {
+      color: var(--black);
+      cursor: default;
+    }
+  }
+}
